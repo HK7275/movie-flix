@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgba(0, 0, 0, 0.863);
+    color: white;
+}
+.darkmode{
+    background-color: black;
+    color: white;
+}
+.whiteButton{
+
+    background-color: white;
+}
+.whiteText{
+
+    color: white;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+    margin: 10px 20px;
+    filter:  invert(1);
+
+}
+.slider{
+    height: 1000px;
+}
+
+.image-card{
+    height: auto;
+    width: auto;
+}
+
+.image-top-card-small{
+    height: 250px;
+    width: auto;
+}
+
+.menu{
+    font-size: auto;
+}
+.menu li{
+    list-style: none;
+    text-decoration: none;
+    padding: 10px 10px;
+}
+.menu li:hover{
+
+    list-style: none;
+    text-decoration: none;
+    padding: 10px 10px;
+    border: 1px solid white;
+}
+.menu li a{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    
+}
